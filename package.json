@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "git": "^0.1.5",
+    "node.js": "^0.0.1-security"
+  },
+  "name": "apirest",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Herick",
+  "license": "ISC",
+  "description": "API rest - prov",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herickohler/apirest-2023a.git"
+  },
+  "bugs": {
+    "url": "https://github.com/herickohler/apirest-2023a/issues"
+  },
+  "homepage": "https://github.com/herickohler/apirest-2023a#readme"
+}
